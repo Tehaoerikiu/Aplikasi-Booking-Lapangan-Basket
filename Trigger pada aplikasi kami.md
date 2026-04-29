@@ -1,4 +1,4 @@
-# 🏀 Sistem Booking Lapangan Basket
+# 🏀 Aplikasi Booking Lapangan Basket
 
 ## 👥 Anggota Kelompok
 - Akhmad Thoriq Aydin Rafif
