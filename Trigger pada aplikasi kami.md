@@ -19,7 +19,7 @@ Trigger ini otomatis membuat data pembayaran setiap kali booking dibuat dengan s
 
 ---
 
-### 2️⃣ Update Status Booking menjadi Done setelah pembayaran
+### 2️⃣ Update Status Booking menjadi Done setelah pembayaran & setelah main
 - **Nama Trigger:** trg_payment_after_update  
 - **Tabel:** payments  
 - **Event:** AFTER UPDATE  
